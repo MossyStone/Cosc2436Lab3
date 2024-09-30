@@ -1,0 +1,4 @@
+Insert "Lorem ipsum"
+Delete "ipsum"
+Insert "dolor sit"
+Undo

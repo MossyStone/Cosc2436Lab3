@@ -1,0 +1,5 @@
+Insert "Hello"
+Insert "World!"
+Delete "World!"
+Delete "asdf"
+Undo
